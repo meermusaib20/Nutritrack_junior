@@ -4,7 +4,7 @@
 
 This project is built with **Next.js** and uses **Supabase** for backend data management.
 
----
+--- 
 
 ## Table of Contents
 
